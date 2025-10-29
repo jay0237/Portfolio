@@ -1,76 +1,69 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Jay Joshi's Portfolio Website<br/>
+  <a href="#" target="_blank">Live Demo (Coming Soon)</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Preview" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
 
 <center>
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## 🚀 About Me
 
-## TL;DR
+Hello! I'm Jay Joshi, a passionate developer who loves building amazing web applications. This is my personal portfolio website where I showcase my projects, skills, and experience.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
+## 🛠️ Built With
 
 - React.js
+- Next.js
 - Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- CSS3 & Styled Components
+- Vercel (Hosting)
+- VS Code (Code Editor)
 
-## Features
+## ✨ Features
 
-**📖 Multi-Page Layout**
+- **Responsive Design** - Looks great on all devices
+- **Modern UI/UX** - Clean and professional interface
+- **Project Showcase** - Highlighting my best work
+- **Contact Form** - Easy way to get in touch
+- **Dark/Light Mode** - Toggle between themes
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## 🚀 Getting Started
 
-**📱 Fully Responsive**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jay0237/Portfolio.git
+   ```
 
-## Getting Started
+2. **Install dependencies**
+   ```bash
+   cd Portfolio
+   npm install
+   ```
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠 Installation and Setup Instructions
+## 📝 License
 
-1. Installation: `npm install`
+This project is open source and available under the [MIT License](LICENSE).
 
-2. In the project directory, you can run: `npm start`
+## 📬 Contact
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+- GitHub: [@jay0237](https://github.com/jay0237)
+- Email: jayjoshi16534@gmail.com
 
-## Usage Instructions
+## 🙏 Acknowledgments
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+- Original design inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
+- Thanks to all contributors and open source community
