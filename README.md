@@ -2,9 +2,6 @@
   Jay Joshi's Portfolio Website<br/>
   <a href="#" target="_blank">Live Demo (Coming Soon)</a>
 </h2>
-<div align="center">
-  <img alt="Portfolio Preview" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
