@@ -62,5 +62,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- Original design inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
 - Thanks to all contributors and open source community
